@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Velasco1704/-todo-machine-react/static/css/main.439cd310.css",
+    "main.js": "/Velasco1704/-todo-machine-react/static/js/main.6c3c7ff0.js",
+    "index.html": "/Velasco1704/-todo-machine-react/index.html",
+    "main.439cd310.css.map": "/Velasco1704/-todo-machine-react/static/css/main.439cd310.css.map",
+    "main.6c3c7ff0.js.map": "/Velasco1704/-todo-machine-react/static/js/main.6c3c7ff0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.439cd310.css",
+    "static/js/main.6c3c7ff0.js"
+  ]
+}
